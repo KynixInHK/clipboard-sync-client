@@ -8,7 +8,7 @@
 
 ## 如何使用？
 ### macOS
-请从[Releases]()下载最新的 `.dmg` 文件，然后正常安装应用即可。
+请从[Releases](https://github.com/KynixInHK/clipboard-sync-client/releases)下载最新的 `.dmg` 文件，然后正常安装应用即可。
 
 > NOTICE：macOS 端的客户端是一个纯粹的“任务栏应用”，启动后不会有任何窗口弹出，您可以在右上角找到它的图标。
 
@@ -19,7 +19,7 @@
 ### Android
 由于 Android 10+ 开始的安全限制，剪贴板的读取需要一个前台服务，我已经穷尽了所有的办法来开发静默运行的剪贴板同步应用，但都以失败告终。（**Fuck you Android !!!**）
 
-因此，我们完全摒弃了“开发一个应用”的想法，转而使用 [HTTP Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts)，我们在 [Release]() 中为你准备好了快捷方式的文件，你可以按照如下的步骤导入它们：
+因此，我们完全摒弃了“开发一个应用”的想法，转而使用 [HTTP Shortcuts](https://github.com/Waboodoo/HTTP-Shortcuts)，我们在 [Releases](https://github.com/KynixInHK/clipboard-sync-client/releases) 中为你准备好了快捷方式的文件，你可以按照如下的步骤导入它们：
 
 ![1](./desplay/Snipaste_2025-12-06_11-36-16.png)
 
