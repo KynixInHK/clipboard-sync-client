@@ -1,0 +1,3 @@
+[submodule "clipboard-sync-server"]
+	path = clipboard-sync-server
+	url = https://github.com/KynixInHK/clipboard-sync-server.git
